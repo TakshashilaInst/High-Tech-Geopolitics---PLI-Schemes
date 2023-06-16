@@ -6,7 +6,7 @@ Production Linked Incentives were introduced by the government to boost domestic
 
 Data is collected from government websites, articles and press releases by the government, links have been given. 
 The data points in red are sourced from a [Press Release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1710134) by the Union Government. 
-The data which we couldn't get has been marked by a '-'. 
+The data which we couldn't get has been marked by a '-' or '?'.
 
 We will keep updating the data as and when we get more. The same can be seen in the table below. 
 
